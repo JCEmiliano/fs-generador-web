@@ -1,4 +1,4 @@
-# FS Generador
+# FS Generador Web
 
 ### ¿Por qué existe esta aplicación?
 La labor de un **Ingeniero de Campo (IDC)** en entornos críticos y de alta demanda como los de **BBVA** se define por la precisión y, sobre todo, por la urgencia. Trabajando bajo una cadena de proveedores que incluye a **Prymenet**, el tiempo es el recurso más escaso; cada minuto dedicado a la transcripción manual de folios y datos técnicos es un minuto que se resta a la resolución efectiva de incidencias en sitio.
