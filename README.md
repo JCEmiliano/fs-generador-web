@@ -15,3 +15,6 @@ La labor de un **Ingeniero de Campo (IDC)** en entornos críticos y de alta dema
 - **Generación en Un Toque**: Crea plantillas de Inicio (Tránsito), Acceso y Cierre de forma instantánea.
 - **Identidad Persistente**: Configura tu nombre de IDC una sola vez para que aparezca automáticamente en todos tus reportes.
 - **Diseño Premium**: Interfaz moderna con soporte para Modo Oscuro, optimizada para visibilidad en campo.
+
+### Pruébalo
+[Haz clic aquí para probarlo](https://jcemiliano.github.io/fs-generador-web/)
