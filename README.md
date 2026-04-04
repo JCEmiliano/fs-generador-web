@@ -8,7 +8,7 @@ La labor de un **Ingeniero de Campo (IDC)** en entornos críticos y de alta dema
 ---
 
 ### Descripción
-**FS Generador** es una herramienta móvil desarrollada en **Flutter** diseñada para optimizar el flujo de trabajo de los ingenieros de campo. Permite la extracción automática de datos clave (Folios, números de incidencia, CR) y la generación instantánea de plantillas de estatus estructuradas para WhatsApp, asegurando uniformidad y profesionalismo en cada comunicación.
+**FS Generador** es una herramienta android / iOS y web desarrollada en **Flutter** diseñada para optimizar el flujo de trabajo de los ingenieros de campo. Permite la extracción automática de datos clave (Folios, números de incidencia, CR) y la generación instantánea de plantillas de estatus estructuradas para WhatsApp, asegurando uniformidad y profesionalismo en cada comunicación.
 
 ### Características Principales
 - **Extracción Inteligente**: Identifica automáticamente folios (INC) e información de CR desde texto copiado de WhatsApp o correos.
